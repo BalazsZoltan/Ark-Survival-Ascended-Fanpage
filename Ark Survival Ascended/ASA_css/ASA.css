@@ -1,0 +1,62 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+
+
+
+.kozepre {
+    text-align: center;
+}
+
+.ciankek {
+    color: rgb(70, 185, 230);
+}
+
+.feher {
+    color: white;
+}
+
+
+.betumeret-nagy {
+    font-size: 100px;
+}
+
+.betumeret-kozepes {
+    font-size: 50px;
+}
+
+.betumeret-kicsi {
+    font-size: 30px;
+}
+.betumeret-kicsi2 {
+    font-size: 20px;
+}
+
+.sorkizart {
+    text-align: justify;
+}  
+
+.ures-ter-nagy {
+    margin-bottom: 1000px;
+}
+
+.ures-ter-kozepes {
+    margin-bottom: 500px;
+}
+
+.ures-ter-kicsi {
+    margin-bottom: 100px;
+}
+
+.ures-ter-minimalis {
+    margin-bottom: 10px;
+}
+
+.ark-logok-sorban {
+    display: inline-block;
+    text-align: center;
+    width: 33%;
+    font-size: 30px;
+}
